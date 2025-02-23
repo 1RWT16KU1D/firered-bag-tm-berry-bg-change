@@ -1,2 +1,30 @@
 ##example
-#gMoveDescriptions 080E5440
+Item_StorageTiles 0810D7CC
+Item_StorageMap 0810D7E8
+Item_StoragePal 0810D7FC
+
+Bag_StorageTiles 08108294
+Bag_StorageMap 081082BC
+Bag_StoragePal 08108304
+
+Deposit_StorageTiles 08108294
+Deposit_StorageMap 081082D0
+Deposit_StoragePal 08108304
+
+Berry_PouchBGTiles 0813D12C
+Berry_PouchBGMap 0813D148
+Berry_PouchBGPal 0813D16C
+
+Berry_PouchBagTiles 084644A8
+Berry_PouchBagPal 084644B0
+
+Bag_MaleTiles 083D41E4
+Bag_MalePal 083D41F4
+
+##TM_CaseBGTiles 08131B70
+##TM_CaseBGMap 08131B8C
+##TM_CaseBGPal 08131BC8
+
+##TM_CaseTiles 08131B70
+##TM_CaseMap 08131BA8
+##TM_CasePal 08131BC8
